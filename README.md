@@ -16,6 +16,26 @@ Here are a few reasons why our tool rocks:
 
 3. **Lightweight Champion**: Remember the last time you waited for that heavy software to load? Yeah, we don't either. Because we're fast like that!
 
+### Installation
+
+No magic tricks, no secret handshakes. Just plain ol' Python goodness:
+
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/copyleftdev/deuces_jmeter.git
+    cd deuces_jmeter
+    ```
+
+2. **Set up a virtual environment** (Optional but recommended):
+    ```bash
+    python3 -m venv env
+    source env/bin/activate  # On Windows, use `env\Scripts\activate`
+    ```
+
+3. **Install the requirements**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 ### How to Use?
 
 It's simple, really!
